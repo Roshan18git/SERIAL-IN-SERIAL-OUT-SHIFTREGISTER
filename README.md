@@ -41,8 +41,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-# Developed by:Roshan G
-# RegisterNumber: 212223040176
+**Developed by:Roshan G**
+**RegisterNumber: 212223040176**
 
 ```
 module SHIFT_REG(clk, sin, q);
